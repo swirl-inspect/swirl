@@ -1,0 +1,1 @@
+[{src:'onDidChangeActiveTerminal',msg:'Current terminal: [%s]; Previous terminal: [%s]',prm:['zsh','node'],time:'2024-09-06T02:12:35.364Z'},{src:'onDidChangeActiveTerminal',msg:'Current terminal: [%s]; Previous terminal: [%s]',prm:['node','zsh'],time:'2024-09-06T02:13:45.564Z'}]

@@ -1,0 +1,1 @@
+[{src:'onDidChangeActiveTerminal',msg:'Current terminal: [%s]; Previous terminal: [%s]',prm:['Python','node'],time:'2024-09-08T19:12:40.998Z'},{src:'onDidChangeTextDocument',msg:'%s:%s to %s:%s in [%s] replaced with: %s`',prm:['347','4','347','4','/Users/burakyetistiren/Desktop/warning_suppression/code/simulate.py','#'],time:'2024-09-08T19:39:51.919Z'}]

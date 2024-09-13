@@ -1,0 +1,1 @@
+[{src:'onDidChangeActiveTerminal',msg:'Current terminal: [%s]; Previous terminal: [%s]',prm:['zsh','node'],time:'2024-09-06T23:08:45.094Z'},{src:'onDidChangeTextEditorVisibleRanges',msg:'%s:%s to %s:%s [%s]',prm:['130','0','140','55','/Users/burakyetistiren/Desktop/warning_suppression/code/simulate.py'],time:'2024-09-06T23:11:38.892Z'}]
